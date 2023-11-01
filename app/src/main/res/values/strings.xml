@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QUE6</string>
+
+    <string-array name="main_campus_options">
+        <item>Select Campus</item>
+        <item>RMD Technical Campus</item>
+        <item>RMD Medical Campus</item>
+    </string-array>
+
+    <string-array name="sub_options_rmd_technical">
+        <item>MBA</item>
+        <item>MCA</item>
+        <item>ENG</item>
+    </string-array>
+
+    <string-array name="sub_options_rmd_medical">
+        <item>MBBS</item>
+        <item>BAMS</item>
+        <item>BHMS</item>
+    </string-array>
+</resources>
